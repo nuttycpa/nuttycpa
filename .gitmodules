@@ -1,0 +1,15 @@
+[submodule "tax/tax-review-pro"]
+	path = tax/tax-review-pro
+	url = https://github.com/nuttycpa/tax-review-pro.git
+[submodule "tax/lawkit"]
+	path = tax/lawkit
+	url = https://github.com/nuttycpa/lawkit.git
+[submodule "treasury/cash-dashboard"]
+	path = treasury/cash-dashboard
+	url = https://github.com/nuttycpa/cash-dashboard.git
+[submodule "data-protection/masking-tools"]
+	path = data-protection/masking-tools
+	url = https://github.com/nuttycpa/nuttycpa-tools.git
+[submodule "utilities/gmail-eml-import"]
+	path = utilities/gmail-eml-import
+	url = https://github.com/nuttycpa/gmail-eml-import.git
