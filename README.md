@@ -1,4 +1,4 @@
-# NuttyCPA
+# Recast Finance AI
 
 재무 직군을 위한 AI 도구 모음
 
@@ -21,4 +21,4 @@
 
 ## 강의
 
-재무 직군을 위한 실무형 AI 교육을 합니다. [nuttycpa.com](https://www.nuttycpa.com)
+재무 직군을 위한 실무형 AI 교육을 합니다. [recastfai.com](https://recastfai.com)
